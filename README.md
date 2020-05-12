@@ -1,16 +1,8 @@
-# hola_mundo
+# Aprendiendo Flutter
+01-Hola mundo: https://github.com/lbvp10/aprendiendo-flutter/tree/01-HolaMundo
 
-A new Flutter project.
+02-Separacion de ficheros: https://github.com/lbvp10/aprendiendo-flutter/tree/02-separacion_ficheros
 
-## Getting Started
+03-Scaffold :https://github.com/lbvp10/aprendiendo-flutter/tree/03-Scaffolfd
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+04-Columns y estilos: https://github.com/lbvp10/aprendiendo-flutter/tree/04-columns_estilos
