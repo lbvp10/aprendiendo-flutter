@@ -7,4 +7,4 @@
 
 04-Columns y estilos: https://github.com/lbvp10/aprendiendo-flutter/tree/04-columns_estilos
 
-05-Boton flotante (wiget statefull): https://github.com/lbvp10/aprendiendo-flutter/tree/05-Boton_flotante
+05-Boton flotante (widget statefull): https://github.com/lbvp10/aprendiendo-flutter/tree/05-Boton_flotante
