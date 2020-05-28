@@ -9,4 +9,4 @@
 
 05-Boton flotante (widget statefull): https://github.com/lbvp10/aprendiendo-flutter/tree/05-Boton_flotante
 
-06-Widgets (componentes) : https://github.com/lbvp10/aprendiendo-flutter/tree/05-Boton_flotante
+06-List View  : https://github.com/lbvp10/aprendiendo-flutter/tree/06-widgets
