@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hola_mundo/src/pages/componentes/list_view_componet.dart';
+import 'package:hola_mundo/src/pages/componentes/home_page.dart';
 
 void main() => runApp(MyApp());
 
@@ -9,6 +9,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         title: 'Componentes',
         debugShowCheckedModeBanner: false,
-        home: ListViewComponent());
+        home: HomePage());
   }
 }
